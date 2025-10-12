@@ -160,3 +160,17 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+footer {
+  position: fixed;        /* Mantém no fim da página */
+  bottom: 0;              /* Encosta no fundo */
+  left: 0;
+  width: 100%;            /* Ocupa toda a largura */
+  text-align: center;     /* Centraliza o conteúdo */
+  padding: 10px 0;        /* Espaçamento interno */
+  background-color: #3b50ff; /* Pode ajustar para combinar com seu tema */
+  color: white;           /* Cor do texto */
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+}
+
